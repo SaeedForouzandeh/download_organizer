@@ -47,13 +47,6 @@ This script organizes files in the Downloads folder by type (e.g., jpg, mp4, pdf
 
 ---
 
-## 📸 پیش‌نمایش | Preview
-![اجرای اسکریپت | Script Execution](screenshots/download_organizer_menu.png)  
-(برای نمایش واقعی، اسکریپت رو اجرا کن یا اسکرین‌شات خودت رو تو پوشه screenshots بذار!)  
-(Run the script to see it in action, or add your own screenshot in the screenshots folder!)
-
----
-
 ## ⚠️ نکات مهم | Important Notes
 
 - 🛡️ اگه فایل‌ها منتقل نشدن، مطمئن شو اسکریپت رو با دسترسی ادمین اجرا کردی.  
